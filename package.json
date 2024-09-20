@@ -1,0 +1,18 @@
+{
+  "name": "gitbook-plugin-aes-page-encrypt",
+  "version": "0.0.1",
+  "description": "GitBook插件：使用AES加密单独页面",
+  "engines": {
+    "gitbook": ">3.0.0"
+  },
+  "gitbook": {
+    "properties": {
+      "pages": {
+        "type": "object"
+      }
+    }
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
