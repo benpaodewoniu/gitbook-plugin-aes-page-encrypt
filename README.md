@@ -1,6 +1,8 @@
-## gitbook-plugin-password-pro
+## gitbook-plugin-aes-page-encrypt
 
 `GitBook` 单页面加密插件
+
+目前市面上 `GitBook` 的单页面插件大都不能用了，基于此，决定自己做一个单页面插件。
 
 ### 效果
 
